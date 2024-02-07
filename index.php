@@ -1,3 +1,3 @@
 <?php
-print "to be continued ...\n";
+print "to be continued ...\nMeantime there are thousands\n";
 ?>
